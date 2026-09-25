@@ -172,6 +172,6 @@ This repository contains the implementation and generated outputs for the Busine
 
 ## Author
 
-**YOUR_NAME**
+**AMEER PASHA**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/YOUR_USERNAME](https://github.com/Ameer-pasha/
