@@ -174,4 +174,4 @@ This repository contains the implementation and generated outputs for the Busine
 
 **AMEER PASHA**
 
-GitHub: https://github.com/YOUR_USERNAME](https://github.com/Ameer-pasha/
+GitHub:https://github.com/Ameer-pasha/
